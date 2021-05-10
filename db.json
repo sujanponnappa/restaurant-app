@@ -1,0 +1,68 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": "Subway",
+      "Address": "University of Twente",
+      "Mobile": "8884347505",
+      "email": "sujanponnappa@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Starbucks",
+      "Address": "University of Twente",
+      "Mobile": "8884347505",
+      "email": "sujanponnappa@gmail.com"
+    },
+    {
+      "name": "Waier",
+      "Address": "University of Twente, New campus",
+      "email": "sujanponnappa@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Sujan Ponnappa",
+      "Address": "Macandra,Emmastraat 210 812",
+      "email": "sujanxy@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Sachin Subbaiah",
+      "Address": "Indirangar",
+      "email": "sujanxy@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Ramya Chengappa",
+      "Address": "No 7, 2nd Floor, 1st D, Main Road, Post, R.T. Nagar, Ganga Nagar Extension",
+      "email": "ramya@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Krish Chengappa",
+      "Address": "Mysore",
+      "email": "krish@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Keerthi Nanaiah",
+      "Address": "Mysore",
+      "email": "keerthi@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "",
+      "Address": "",
+      "email": "",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "Rakshith",
+      "password": "abcd1234",
+      "email": "rakshith@gmail.com",
+      "id": 1
+    }
+  ]
+}
